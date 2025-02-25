@@ -110,5 +110,5 @@ Under standard problem conditions, there is a pronounced imbalance in the market
 ### Main Page
 ![MainPage](https://drive.google.com/uc?export=view&id=1Ige5pyO1hZx1m-IwnKg83-o1o9TtEuXA)
 ### Page with data
-!(SecondPage)[https://drive.google.com/uc?export=view&id=1_zwbI3cF3RfGHbCPfL77YPpSF4XbPJUN]
+![SecondPage](https://drive.google.com/uc?export=view&id=1_zwbI3cF3RfGHbCPfL77YPpSF4XbPJUN)
 
