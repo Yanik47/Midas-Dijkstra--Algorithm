@@ -104,3 +104,11 @@ This approach required an adaptation of the algorithm to account for the new con
 The graphical interface includes two output fields, each demonstrating the performance of the standard algorithm and the modified version, thus allowing a comparative analysis of the impact of the optimization.
 
 Under standard problem conditions, there is a pronounced imbalance in the market price of gold, which minimizes noticeable differences in outcomes. However, certain modifications to the input parameters indicate that price normalization and the inclusion of a broader range of resources significantly complicate the problem, allowing the algorithm to perform substantially better under these enhanced conditions.
+
+### Screenshots :)
+
+### Main Page
+![MainPage](https://drive.google.com/uc?export=view&id=1Ige5pyO1hZx1m-IwnKg83-o1o9TtEuXA)
+### Page with data
+!(SecondPage)[https://drive.google.com/uc?export=view&id=1_zwbI3cF3RfGHbCPfL77YPpSF4XbPJUN]
+
